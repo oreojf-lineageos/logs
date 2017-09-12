@@ -1,3 +1,4 @@
+```
 [    0.000000] Truncating memory at 0xc0000000 to fit in 32-bit physical address space
 [    0.000000] sec_tsp_mode: LCD_ID = 0x408047, val: 0X408047, ret1: 0x8
 [    0.032501] AXI: msm_bus_fabric_init_driver(): msm_bus_fabric_init_driver
@@ -112,3 +113,4 @@
 [   10.010437] F2FS-fs (mmcblk0p18): Can't find valid F2FS filesystem in 1th superblock
 [   10.010894] F2FS-fs (mmcblk0p18): Can't find
 4 Corrected bytes, 62 unrecoverable blocks
+```
